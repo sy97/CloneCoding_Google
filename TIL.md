@@ -15,8 +15,9 @@
 3. 하이퍼링크 밑줄 없애는법 : `text-decoration: none; `
 4. `display : contents`
 5. `box-shadow` : 오른쪽 아래쪽 블러(여기부터 추가하면 블러커짐) 그림자색상
+6. `text-decoration` 속성은 상속되지 않기 때문에 `<a>` 태그에 직접 해주어야한다.
+7. `text-align `inline`에만 적용되는건 아니다. div에도 쓸 수 있음.
 
 ## 궁금한점
 
-1. main을 가운데 배치 시킬 때 왜 `text-align`을 쓰는걸까,,? 배치에 대해 다시 공부해봐야겠다..
-2. google 로고를 누르면 리프레쉬되는 기능은 어떻게넣는걸까
+1. google 로고를 누르면 리프레쉬되는 기능은 어떻게넣는걸까
